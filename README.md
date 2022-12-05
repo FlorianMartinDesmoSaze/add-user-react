@@ -1,1 +1,3 @@
 # Simpe application to create users
+
+Here is some of the concepts that we are going to see : useState, form, validation...
